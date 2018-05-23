@@ -1,1 +1,1 @@
-stock information and analyzing model using open API's.
+Test using Alpha Vantage API for a stock analyzer app.
